@@ -14,10 +14,7 @@ const Footer = () => {
           />
         </Link>
 
-        <p> &copy; 2024 &nbsp; Evently. All Rights Are Not Reserved.</p>
-        <p>Made with &#128420; by Sachin & Team</p>
-
-
+        <p>2023 Evently. All Rights reserved.</p>
       </div>
     </footer>
   )
